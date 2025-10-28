@@ -86,7 +86,7 @@
         </div>
 
         <div class="info-container">
-          <small class="d-block pt-4 border-top fw-normal text-uppercase text-muted my-3">DETAILS</small>
+          <small class="d-block pt-4 border-top fw-normal text-uppercase text-muted my-3 ">DETAILS</small>
           <ul class="list-unstyled">
             <li class="mb-3">
               <span class="fw-medium me-2">Username:</span>

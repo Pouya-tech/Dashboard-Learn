@@ -20,8 +20,8 @@
   "Kanban": "تخته کاری (کانبان)",
   "Products": "محصولات",
   "Add Product": "افزودن محصول",
-  "Product list": "لیست محصولات",
-  "Category list": "لیست دسته‌بندی‌ها",
+  "Product List": "لیست محصولات",
+  "Category List": "لیست دسته‌بندی‌ها",
   "Category": "دسته‌بندی",
   "Order": "سفارش",
   "Order list": "لیست سفارش‌ها",
@@ -31,7 +31,7 @@
   "Customer Details": "جزئیات مشتری",
   "Overview": "نمای کلی",
   "Address & Billing": "آدرس و صورتحساب",
-  "Manage reviews": "مدیریت نظرات",
+  "Manage Reviews": "مدیریت نظرات",
   "Referrals": "ارجاعات",
   "Settings": "تنظیمات",
   "Payments": "پرداخت‌ها",
@@ -162,6 +162,7 @@
   "Support": "پشتیبانی",
   "Documentation": "مستندات",
   "Academy": "آکادمی",
+  "Products": "محصولات",
   "My Course": "دوره من",
   "Course Details": "جزئیات دوره"
 }

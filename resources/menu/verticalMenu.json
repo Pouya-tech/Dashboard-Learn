@@ -33,6 +33,11 @@
           "url": "app/academy/dashboard",
           "name": "Academy",
           "slug": "app-academy-dashboard"
+        },
+        {
+          "url": "app/Buy/dashboard",
+          "name": "Buy",
+          "slug": "app-Buy-dashboard"
         }
       ]
     },
@@ -181,7 +186,7 @@
           "slug": "app-ecommerce-product",
           "submenu": [
             {
-              "url": "app/ecommerce/product/list",
+              "url": " ",
               "name": "Product List",
               "slug": "app-ecommerce-product-list"
             },
